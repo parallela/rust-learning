@@ -1,0 +1,11 @@
+{
+  "name": "product",
+  "price": 10230,
+  "category": {
+    "name": "Adidas"
+  },
+  "tags": [
+    "example",
+    "example2"
+  ]
+}
